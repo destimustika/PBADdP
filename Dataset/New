@@ -1,1 +1,3 @@
+Dataset terdiri dari sembilan buah tabel, antara lain:
 
+customers, geolocation, order_items, order_payments, order_reviews, orders, product_category_name_translation, products, dan sellers.
