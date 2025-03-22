@@ -1,6 +1,5 @@
-numpy
+streamlit
 pandas
 matplotlib
-streamlit
 seaborn
-google-colab
+babel
